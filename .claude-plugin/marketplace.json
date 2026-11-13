@@ -11,14 +11,9 @@
       "description": "Create a 'Review point' PR that lists your suggestion commits as a table of findings and changes",
       "source": "./",
       "strict": false,
-      "skills": ["./review-point-pr"]
-    },
-    {
-      "name": "nitaking-blog-style",
-      "description": "Style guide and AI-tone detection rubric for nitaking's blog posts",
-      "source": "./",
-      "strict": false,
-      "skills": ["./nitaking-blog-style"]
+      "skills": [
+        "./review-point-pr"
+      ]
     }
   ]
 }

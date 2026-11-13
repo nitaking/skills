@@ -12,7 +12,6 @@ e.g.
 
 ```
 /plugin install review-point-pr --marketplace nitaking/skills
-/plugin install nitaking-blog-style --marketplace nitaking/skills
 ```
 
 On older Claude Code versions:
@@ -45,12 +44,6 @@ apm install -g nitaking/skills/<skill-name>#v0.1.0
 ```
 
 ## Skills
-
-### Tooling / Infra
-
-| Skill | Description |
-| --- | --- |
-| [nitaking-blog-style](nitaking-blog-style/) | Evaluation and feedback on nitaking's writing style and AI-generated writing style |
 
 ### Development workflow
 
